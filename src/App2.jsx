@@ -5,7 +5,7 @@ class App2 extends Component {
     constructor()
     {
         super()
-        this.state={
+        this.state={   
             img: faker.image.avatar()
         }
     }
